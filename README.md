@@ -18,3 +18,4 @@ In basketball scoring, there are a two forms and I'll try to represent them in a
 | lay up    | 2          |
 |free threw | 2, 1 our 3 |
 
+## ...
