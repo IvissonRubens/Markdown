@@ -1,6 +1,6 @@
 # Basketball principles
 
-All the site cliked the image above. But this is a resum this site for your aprendized for this amazing sport.
+You can read the full website by clicking on the image below. But this is a summary of this website for its apprentices to this incredible sport.
 
 [![imge for site](https://th.bing.com/th/id/OIP.eeHplJEe608DsZiKzssWFgHaJn?w=616&h=800&rs=1&pid=ImgDetMain)](https://www.breakthroughbasketball.com/basics/basics.html)
 
