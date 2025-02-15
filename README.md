@@ -20,3 +20,12 @@ In basketball scoring, there are a two forms and I'll try to represent them in a
 |free threw | 2, 1 our 3 |
 
 ## ...
+
+## Este text é para o aprendizado do sr.Gabriel 
+Gabriel is inteligent
+
+|    gays  |    heteros  |
+|:---------:|:----------:|
+|Madruga    | Ivisson    |
+| Marcelo M.| Flavio     |
+|Japa       | Vitor      |
